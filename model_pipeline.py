@@ -28,7 +28,7 @@ OUTPUT:
 PATH_PGCB    = "PGCB_date_power_demand.xlsx"
 PATH_WEATHER = "weather_data.xlsx"
 PATH_ECON    = "economic_full_1.csv"
-PATH_OUTPUT_DIR = r"E:\AI Club Recruitment\8"
+PATH_OUTPUT_DIR = "."
 
 # ─────────────────────────────────────────────────────────────────────────────
 #  [OPTIONALLY CHANGE THESE] Parameters
